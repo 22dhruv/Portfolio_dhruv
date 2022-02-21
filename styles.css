@@ -1,0 +1,104 @@
+body{
+  padding:10px;
+  background-color:lightcyan;
+  font-family: 'Merriweather', serif;
+  font-family: 'Noto Serif', serif;
+}
+#footer{
+  clear:both;
+}
+
+.Contact{
+ text-decoration:none;
+  color:deepskyblue;
+}
+div{
+  padding:1px;
+}
+
+hr {
+  background-color:grey;
+  border-style:none;
+  border-top-style:dotted;
+  height: 3px;
+}
+#img_div{
+  display:inline;
+  float:left;
+}
+ol{
+  padding-left:19px;
+}
+img{
+  height:200px;
+  width:160px;
+  border-color:grey;
+  border-style:solid;
+}
+#Edu_Qual{
+  clear:left;
+  color:darkmagenta;
+  padding:1px;
+  margin-top:0;
+}
+.Educational_details{
+  clear:left;
+  font-weight:bold;
+  font-size:20px;
+}
+#strng{
+  margin-top:6.25rem;
+  display:block;
+  color:#6c25be;
+  font-family:'Shrikhand', cursive;
+}
+
+img{
+  border-color:#0ca678;
+
+}
+
+.skill{
+  float:left;
+}
+.social_icons{
+  margin-left:5px;
+}
+.fa-linkedin{
+  color:#0e76a8;
+}
+.fa-instagram{
+  color:#833AB4;
+}
+
+/*#message{*/
+/*  position:relative;*/
+/*  top:110px;*/
+/*  left:-320px;*/
+
+/*}*/
+#underline{
+  color:saddlebrown;
+}
+.Contact:hover{
+  color:indianred;
+}
+/*#contact_us{*/
+/*  margin-top:0.5em;*/
+/*  background-color:red;*/
+/*  color:white;*/
+/*  font-size:1.25rem;*/
+/*  font-weight:bold;*/
+/*  height:2.5rem;*/
+/*  width:6.875rem;*/
+/*  border-radius:2.5em;*/
+
+/*}*/
+/*#contact_us:hover{*/
+/*  background-color:blue;*/
+#message{
+  background-color:lightyellow;
+  font-size:1.375rem;
+  width:45%;
+  margin-top:5px;
+}
